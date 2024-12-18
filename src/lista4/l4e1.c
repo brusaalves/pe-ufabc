@@ -1,4 +1,5 @@
-// name l4e1.c (buscador de texto)
+// http://professor.ufabc.edu.br/~m.sambinelli/courses/2024Q3-PE/listas/modulo05-ponteiros.pdf
+// exercicio 1 (buscador de texto)
 
 #include "../lib.c"
 
